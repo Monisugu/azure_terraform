@@ -1,0 +1,13 @@
+rg_name = "test-rg"
+location = "westeurope"
+vnet_name = "test_vnet"
+vnet_cidr = ["10.0.0.0/16"]
+subnet1 = "subnet_A"
+subnet2 = "subnet_B"
+subnet1_cidr = ["10.0.1.0/24"]
+subnet2_cidr = ["10.0.2.0/24"]
+windows_vm = "test_windowsvm"
+windows_vmsize = "Standard_F2"
+linux_size = "Standard_DS1_v2"
+linux_vm = "test_linuxvm"
+test_nic = "test_nic1"
