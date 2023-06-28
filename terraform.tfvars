@@ -9,5 +9,5 @@ subnet2_cidr = ["10.0.2.0/24"]
 windows_vm = "test_windowsvm"
 windows_vmsize = "Standard_F2"
 linux_size = "Standard_DS1_v2"
-linux_vm = "test_linuxvm"
+linux_vm = "test1_linuxvm"
 test_nic = "test_nic1"
